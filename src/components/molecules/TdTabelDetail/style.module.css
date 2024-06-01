@@ -1,0 +1,10 @@
+.inputHeigth {
+  height: 30px !important;
+}
+
+.dataTabelDetail {
+  font-size: 13px;
+  min-width: fit-content;
+  width: fit-content;
+  font-weight: normal;
+}
